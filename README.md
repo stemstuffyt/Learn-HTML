@@ -1,2 +1,2 @@
-# Learn HTML
- I am learning HTML
+# Stem Stuff Website
+ This is the website for my YouTube channel.
