@@ -1,8 +1,8 @@
-body {
-background: rgb(2,0,36);
-background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(1,59,97,1) 28%, rgba(0,212,255,1) 100%);
-
-h1 {
-  color: navy;
-  margin-left: 500px;
+body{
+   background-color:rgb(104, 88, 48);
+   text-align: center;
 }
+h1 {
+   color: rgb(36, 0, 128);
+ }
+ 
